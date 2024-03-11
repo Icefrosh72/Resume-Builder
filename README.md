@@ -23,7 +23,7 @@ Real-Time Preview: Experience real-time previewing of your resume as you make ch
 
 Responsive Design: Ensure your resume looks great on all devices with React's support for responsive design principles.
 
-#How to Use
+# How to Use
 
 # Installation: Clone this repository and run npm install to install dependencies.
 Start the Application: Run npm start to start the development server.
