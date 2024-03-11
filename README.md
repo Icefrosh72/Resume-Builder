@@ -8,8 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-React Resume Builder
-Overview
+# React Resume Builder
+# Overview
 This is a React-based resume builder designed to simplify the process of creating professional resumes. With React Resume Builder, you can effortlessly craft customized resumes tailored to specific job applications, helping you stand out to potential employers.
 
 Features
