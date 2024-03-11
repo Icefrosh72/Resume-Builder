@@ -67,8 +67,11 @@ function Form({ onFormChange }) {
 
   return (
     <form onSubmit={handleSubmit}>
+      <label>Ful Name</label>
       <input type="text" name="fullName" placeholder="Full Name" value={formData.fullName} onChange={handleChange} />
       {errors.fullName && <p className="error">{errors.fullName}</p>}
+
+      <label htmlFor="email">Email</label>
       <input type="email" name="email" placeholder="Email" value={formData.email} onChange={handleChange} />
       {errors.email && <p className="error">{errors.email}</p>}
       <textarea name="education" placeholder="Education" value={formData.education} onChange={handleChange}></textarea>
